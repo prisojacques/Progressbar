@@ -1,0 +1,14 @@
+.bar{
+  height:25px;
+  width: 90%;
+  margin-top: 50px;
+  margin-left: 45px;
+  text-align: center;
+  background:#ddd;
+}
+
+.bar2{
+  height:25px;
+  background:#3B82F0;
+  color: white;
+}

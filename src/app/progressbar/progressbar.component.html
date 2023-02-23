@@ -1,0 +1,8 @@
+<div class="bar" [style.background-color]="backgroundColor">
+    <div [ngStyle]="{'width.%': value+from } " class="bar2"
+         (mouseover)="onMouseOver()">
+      {{ value+from }}%
+    </div>
+</div>
+
+
